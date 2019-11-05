@@ -2,8 +2,8 @@ import email
 import imaplib
 import os
 
-EMAIL_ACCOUNT = "thorbjornjons@gmail.com"
-PASSWORD = "Jtbhrjtjmj5%"
+EMAIL_ACCOUNT = "xxxx@gmail.com"
+PASSWORD = "yyyy"
 path = r'Receipt\Unfiltered receipts'
 def run_thr_em():
     mail = imaplib.IMAP4_SSL('imap.gmail.com')
