@@ -3,7 +3,6 @@ from skimage.filters import threshold_local
 import cv2
 import imutils
 import os
-import win32api
 from tkinter import *
 import tkinter as tk
 from PIL import Image, ImageTk
