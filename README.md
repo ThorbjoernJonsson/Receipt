@@ -13,7 +13,7 @@ Description.
 9) pip install opencv-python
 10) pip install Pillow
 11) pip install datetime
-12) On https://digi.bib.uni-mannheim.de/tesseract/ dowload tesseract-ocr-w64-setup-v5.0.0-alpha.20191030. Save it under C:\Program Files\Tesseract-OCR\
+12) On https://digi.bib.uni-mannheim.de/tesseract/ download tesseract-ocr-w64-setup-v5.0.0-alpha.20191030. Save it under C:\Program Files\Tesseract-OCR\
  
 Daily use:
 Take a picture of the receipt, try to have the receipt cover big part of the photo and a dark plain background is best. Send the photo to your email address with the subject line Receipt. Import the package Receipt and the download will automatically start. To re download new receipts run the reRun module.
