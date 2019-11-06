@@ -6,14 +6,14 @@ Description.
 2) You need to allow less secured apps access Gmail. See https://devanswers.co/allow-less-secure-apps-access-gmail-account/
 3) In the download file you need to change EMAIL_ACCOUNT and PASSWORD to matching what you have for Gmail.
 4) You need the following packages installed:
-4.a) pip install email
-4.b) pip install scipy
-4.c) pip install numpy
-4.d) pip install scikit-learn
-4.e) pip install opencv-python
-4.f) pip install Pillow
-4.g) pip install datetime
-4.h) On https://digi.bib.uni-mannheim.de/tesseract/ dowload tesseract-ocr-w64-setup-v5.0.0-alpha.20191030. Save it under C:\Program Files\Tesseract-OCR\
+5) pip install email
+6) pip install scipy
+7) pip install numpy
+8) pip install scikit-learn
+9) pip install opencv-python
+10) pip install Pillow
+11) pip install datetime
+12) On https://digi.bib.uni-mannheim.de/tesseract/ dowload tesseract-ocr-w64-setup-v5.0.0-alpha.20191030. Save it under C:\Program Files\Tesseract-OCR\
  
 Daily use.
 Take a picture of the receipt, try to have the receipt cover big part of the photo and a dark plain background is best. Send the photo to your email address with the subject line Receipt. Import the package Receipt and the download will automatically start. To re download new receipts run the reRun module.
